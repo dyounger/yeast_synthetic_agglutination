@@ -1,6 +1,6 @@
-### How to make media for SynAg:
+## How to make media for SynAg:
 
-#### YPAD (to make 800mL)
+### YPAD (to make 800mL)
 ###### Mix the following:
 - Bacto yeast extract: 8g
 - Bacto peptone: 16g
@@ -9,10 +9,10 @@
 ###### Add 8mL of filter sterilized 20% dextrose
 
 
-#### YPAG: Identical to YPAD, but replace dextrose with galactose (still 8mL of 20% for 800mL batch)
+### YPAG: Identical to YPAD, but replace dextrose with galactose (still 8mL of 20% for 800mL batch)
 
 
-#### SDO (to make 800mL)
+### SDO (to make 800mL)
 ###### Mix the following:
 - Yeast nitrogen base w/o amino acids: 5.36g
 - Adenine hemisulfate: 64mg
